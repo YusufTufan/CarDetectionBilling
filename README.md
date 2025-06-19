@@ -1,7 +1,6 @@
 # CarDetectionBilling 
 Real-time vehicle detection &amp; pricing
 
-
 # 🚗 Car Detection & Billing System
 
 YouTube videoları üzerinden araçları tespit eden, takip eden ve geçiş ücreti hesaplayan akıllı bir sistem.
