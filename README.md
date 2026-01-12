@@ -63,3 +63,11 @@ pip install ultralytics
 3. Araçlar ekranda kutularla gösterilir, sınıflar etiketlenir.
 4. Üst panelde gerçek zamanlı toplam gelir ve araç sayısı yer alır.
 5. `"q"` tuşuna basıldığında uygulama güvenli şekilde kapanır.
+
+
+---
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Copyright (c) 2025 YusufTufan
